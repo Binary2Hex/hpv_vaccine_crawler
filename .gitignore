@@ -1,0 +1,10 @@
+lib
+bin
+include
+
+.idea
+
+log
+pyvenv.cfg
+debug
+
